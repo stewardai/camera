@@ -1,6 +1,6 @@
 # Steward Camera
 
-The Steward Camera is an IoT device used to identify plant (phenotypes)[https://en.wikipedia.org/wiki/Phenotype]. 
+The Steward Camera is an IoT device used to identify plant [phenotypes](https://en.wikipedia.org/wiki/Phenotype). 
 
 
 ## Features
